@@ -68,8 +68,8 @@ import cv2 as cv
 import socket
 import time
 
-# CHANGE THIS TO BE YOUR TEAM'S cRIO IP ADDRESS!
-HOST, PORT = "10.2.54.2", 1180
+# CHANGE THIS TO BE YOUR TEAM NUMBER IP ADDRESS!
+HOST, PORT = "roborio-254.local", 1180
 
 # Name of displayed window
 WINDOW_NAME = "CheesyVision"
